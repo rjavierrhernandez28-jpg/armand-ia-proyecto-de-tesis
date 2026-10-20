@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Modelo de voz (se descarga aparte)
+vosk-model*/
+*.zip
+
+# Secretos
+.env
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
